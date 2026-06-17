@@ -62,9 +62,9 @@ export const translations = {
       title: 'Il Programma del Weekend',
       desc: 'Tre giorni immersi nella magia della Puglia. Ogni momento è stato pensato per essere vissuto insieme, senza fretta, tra trulli, masserie e sapori autentici.',
       days: [
-        { day: 'Venerdì', date: '10 Luglio', title: 'Benvenuti in Puglia', subtitle: 'Aperitivo di Benvenuto', events: [{ time: '17:00', label: 'Check-in nelle strutture' }, { time: '19:30', label: 'Aperitivo di benvenuto — centro storico di Martina Franca' }, { time: '21:00', label: 'Cena informale — vi consigliamo le orecchiette al sugo di braciole!' }], note: 'Abbigliamento: casual elegante. Una serata rilassata per ritrovarsi.' },
-        { day: 'Sabato', date: '11 Luglio', title: 'Il Grande Giorno', subtitle: 'Cerimonia & Festa', events: [{ time: '15:30', label: 'Accoglienza ospiti — corte barocca della Masseria' }, { time: '16:00', label: 'Cerimonia civile — corte esterna di Masseria Palesi' }, { time: '16:45', label: 'Lancio del riso e fotografie tra gli ulivi' }, { time: '17:30', label: 'Aperitivo nei giardini — musica live' }, { time: '20:30', label: 'Cena di gala — Limonaia della Masseria' }, { time: '23:00', label: 'Taglio della torta' }, { time: '23:30', label: 'Musica, balli e karaoke fino all\'alba 🎤' }], note: 'Dress code: abito lungo o cocktail per lei, abito o completo in lino per lui.' },
-        { day: 'Domenica', date: '12 Luglio', title: "L'Ultimo Caffè", subtitle: 'Brunch & Saluti', events: [{ time: '10:30', label: 'Brunch di saluto — prato della Masseria' }, { time: '12:30', label: 'Scambio di abbracci e saluti finali' }, { time: '13:00', label: 'Check-out dalle strutture' }], note: 'Un mattino tranquillo sotto gli ulivi per ricaricare le batterie.' },
+        { day: 'Sabato', date: '10 Luglio', title: 'Benvenuti in Puglia', subtitle: 'Aperitivo di Benvenuto', events: [{ time: '17:00', label: 'Check-in nelle strutture' }, { time: '19:30', label: 'Aperitivo di benvenuto — centro storico di Martina Franca' }, { time: '21:00', label: 'Cena informale — vi consigliamo le orecchiette al sugo di braciole!' }], note: 'Abbigliamento: casual elegante. Una serata rilassata per ritrovarsi.' },
+        { day: 'Domenica', date: '11 Luglio', title: 'Il Grande Giorno', subtitle: 'Cerimonia & Festa', events: [{ time: '15:30', label: 'Accoglienza ospiti — corte barocca della Masseria' }, { time: '16:00', label: 'Cerimonia civile — corte esterna di Masseria Palesi' }, { time: '16:45', label: 'Lancio del riso e fotografie tra gli ulivi' }, { time: '17:30', label: 'Aperitivo nei giardini — musica live' }, { time: '20:30', label: 'Cena di gala — Limonaia della Masseria' }, { time: '23:00', label: 'Taglio della torta' }, { time: '23:30', label: 'Musica, balli e karaoke fino all\'alba 🎤' }], note: 'Dress code: abito lungo o cocktail per lei, abito o completo in lino per lui.' },
+        { day: 'Lunedì', date: '12 Luglio', title: "L'Ultimo Caffè", subtitle: 'Brunch & Saluti', events: [{ time: '10:30', label: 'Brunch di saluto — prato della Masseria' }, { time: '12:30', label: 'Scambio di abbracci e saluti finali' }, { time: '13:00', label: 'Check-out dalle strutture' }], note: 'Un mattino tranquillo sotto gli ulivi per ricaricare le batterie.' },
       ],
     },
     // DressCode
@@ -222,9 +222,9 @@ export const translations = {
       title: 'Weekend Schedule',
       desc: 'Three days immersed in the magic of Puglia. Every moment has been planned to be lived together, at leisure, among trulli, masserie and authentic flavours.',
       days: [
-        { day: 'Friday', date: 'July 10th', title: 'Welcome to Puglia', subtitle: 'Welcome Aperitivo', events: [{ time: '5:00 PM', label: 'Check-in at your accommodation' }, { time: '7:30 PM', label: "Welcome drinks — Martina Franca town centre" }, { time: '9:00 PM', label: 'Informal dinner — we recommend the orecchiette with braciole ragù!' }], note: 'Dress code: smart casual. A relaxed evening to reconnect with everyone.' },
-        { day: 'Saturday', date: 'July 11th', title: 'The Big Day', subtitle: 'Ceremony & Celebration', events: [{ time: '3:30 PM', label: 'Guests welcomed in the Baroque courtyard' }, { time: '4:00 PM', label: 'Civil ceremony — outdoor courtyard of Masseria Palesi' }, { time: '4:45 PM', label: 'Rice throwing and group photos among the olive trees' }, { time: '5:30 PM', label: 'Garden aperitivo — live music' }, { time: '8:30 PM', label: 'Gala dinner — Limonaia della Masseria' }, { time: '11:00 PM', label: 'Cake cutting' }, { time: '11:30 PM', label: 'Music, dancing and karaoke until dawn 🎤' }], note: 'Dress code: floor-length or cocktail dress for her, linen suit or blazer for him.' },
-        { day: 'Sunday', date: 'July 12th', title: 'The Last Coffee', subtitle: 'Brunch & Farewells', events: [{ time: '10:30 AM', label: 'Farewell brunch on the Masseria lawn' }, { time: '12:30 PM', label: 'Hugs and final goodbyes' }, { time: '1:00 PM', label: 'Check-out' }], note: 'A quiet morning under the olive trees to recharge before heading home.' },
+        { day: 'Saturday', date: 'July 10th', title: 'Welcome to Puglia', subtitle: 'Welcome Aperitivo', events: [{ time: '5:00 PM', label: 'Check-in at your accommodation' }, { time: '7:30 PM', label: "Welcome drinks — Martina Franca town centre" }, { time: '9:00 PM', label: 'Informal dinner — we recommend the orecchiette with braciole ragù!' }], note: 'Dress code: smart casual. A relaxed evening to reconnect with everyone.' },
+        { day: 'Sunday', date: 'July 11th', title: 'The Big Day', subtitle: 'Ceremony & Celebration', events: [{ time: '3:30 PM', label: 'Guests welcomed in the Baroque courtyard' }, { time: '4:00 PM', label: 'Civil ceremony — outdoor courtyard of Masseria Palesi' }, { time: '4:45 PM', label: 'Rice throwing and group photos among the olive trees' }, { time: '5:30 PM', label: 'Garden aperitivo — live music' }, { time: '8:30 PM', label: 'Gala dinner — Limonaia della Masseria' }, { time: '11:00 PM', label: 'Cake cutting' }, { time: '11:30 PM', label: 'Music, dancing and karaoke until dawn 🎤' }], note: 'Dress code: floor-length or cocktail dress for her, linen suit or blazer for him.' },
+        { day: 'Monday', date: 'July 12th', title: 'The Last Coffee', subtitle: 'Brunch & Farewells', events: [{ time: '10:30 AM', label: 'Farewell brunch on the Masseria lawn' }, { time: '12:30 PM', label: 'Hugs and final goodbyes' }, { time: '1:00 PM', label: 'Check-out' }], note: 'A quiet morning under the olive trees to recharge before heading home.' },
       ],
     },
     dresscode: {
@@ -304,23 +304,3 @@ export const translations = {
       plus_one_name: "Guest's Name",
       diet_guest: 'Your dietary requirements',
       diet_plus: 'Dietary requirements for',
-      notes: 'Notes or messages to the couple',
-      notes_placeholder: 'A thought, an allergy not on the list, or an early hug…',
-      next: 'Continue',
-      back: 'Back',
-      submit: 'Confirm My Attendance 🌿',
-      submit_no: 'Send Reply',
-      sending: 'Sending…',
-      success_title: 'Thank you,',
-      success_msg: "We've received your reply and can't wait to celebrate with you under the Pugliese sun. You'll receive a confirmation by email.",
-      error_msg: 'Something went wrong. Please write to us at rosseantonio11727@gmail.com',
-      required_msg: 'Please fill in your first name, last name and email.',
-    },
-    footer: {
-      date: 'July 11th, 2027 — Masseria Palesi, Puglia',
-      contact: 'For any questions, write to us at',
-    },
-  },
-}
-
-export type Translations = typeof translations.it
