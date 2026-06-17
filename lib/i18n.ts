@@ -304,3 +304,23 @@ export const translations = {
       plus_one_name: "Guest's Name",
       diet_guest: 'Your dietary requirements',
       diet_plus: 'Dietary requirements for',
+      notes: 'Notes or messages to the couple',
+      notes_placeholder: 'A thought, an allergy not on the list, or an early hug…',
+      next: 'Continue',
+      back: 'Back',
+      submit: 'Confirm My Attendance 🌿',
+      submit_no: 'Send Reply',
+      sending: 'Sending…',
+      success_title: 'Thank you,',
+      success_msg: "We've received your reply and can't wait to celebrate with you under the Pugliese sun. You'll receive a confirmation by email.",
+      error_msg: 'Something went wrong. Please write to us at rosseantonio11727@gmail.com',
+      required_msg: 'Please fill in your first name, last name and email.',
+    },
+    footer: {
+      date: 'July 11th, 2027 — Masseria Palesi, Puglia',
+      contact: 'For any questions, write to us at',
+    },
+  },
+}
+
+export type Translations = typeof translations.it
